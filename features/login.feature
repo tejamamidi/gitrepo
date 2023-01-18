@@ -8,3 +8,4 @@ Feature: Title of your feature
     Given I want to write a step with precondition
     When opens browser
     Then opens it and opens
+    Then also see browser
